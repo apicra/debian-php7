@@ -1,6 +1,6 @@
 #!/bin/bash
-set URL=https://docs.gunicorn.org/en/0.17.0/configure.html
-set URL=https://docs.gunicorn.org/en/latest/
+set URL=https://www.php.net/manual/de/features.commandline.webserver.php
+set URL=https://www.php.net
 ::set BROWSER=chrome
 set BROWSER=firefox
 start %BROWSER% %URL%
