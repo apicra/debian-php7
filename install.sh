@@ -1,4 +1,4 @@
-apt autoremove
+apt autoremove -y
 apt install python3-venv -y
 apt install gunicorn -y
 python3 -m pip install --user virtualenv

@@ -1,1 +1,1 @@
-git clone https://github.com/apicra/debian-php7.git php
+git clone git://github.com/apicra/debian-php7.git php
