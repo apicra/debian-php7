@@ -1,6 +1,7 @@
 apt-get autoremove -y
 #apt-get install -y php5-common libapache2-mod-php5 php5-cli
 apt-get update
+sudo apt-get install wget -y
 #apt-get install ca-certificates apt-transport-https
 #wget -q https://packages.sury.org/php/apt.gpg -O- | apt-key add -
 #echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" | tee /etc/apt/sources.list.d/php.list
